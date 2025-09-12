@@ -7,7 +7,7 @@
 }
 
 .divRoxa{
-    background-color: rgb(155, 68, 255);
+    background-color: rgb(187, 128, 255);
     height: 20vh;
     display: flex;
     justify-content: flex-end;
@@ -16,14 +16,14 @@
 }
 
 .bolaRoxa{
-    height: 100px;
-    width: 100px;
-    background-color: rgba(101, 24, 173, 0.992);
+    height: 130px;
+    width: 130px;
+    background-color: rgba(115, 64, 162, 0.992);
     border-radius: 50%;
 }
 
 .divVerde{
-    background-color: rgb(7, 204, 7);
+    background-color: rgb(89, 189, 89);
     height: 20vh;
     display: flex;
     justify-content: flex-end;
@@ -32,10 +32,10 @@
 }
 
 .bolaVerde{
-    height: 100px;
-    width: 100px;
+    height: 130px;
+    width: 130px;
     border-radius: 50%;
-    background-color: green;
+    background-color: rgb(23, 120, 23);
 }
 
 .divVermelha{
@@ -49,13 +49,13 @@
 
 .bolaVermelha{
     background-color: rgb(142, 0, 0);
-    height: 100px;
-    width: 100px;
+    height: 130px;
+    width: 130px;
     border-radius: 50%;
 }
 
 .divAmarela{
-    background-color: yellow;
+    background-color: rgb(247, 247, 88);
     height: 20vh;
     display: flex;
     justify-content: space-between;
@@ -63,14 +63,14 @@
 }
 
 .bolaAmarela{
-    background-color: rgb(112, 112, 2);   
-    height: 100px;
-    width: 100px;
+    background-color: rgb(134, 134, 1);   
+    height: 130px;
+    width: 130px;
     border-radius: 50%;
 }
 
 .divAzul{
-    background-color: rgb(70, 181, 255);
+    background-color: rgb(115, 199, 255);
     height: 20vh;
     display: flex;
     justify-content: space-evenly;
@@ -78,8 +78,8 @@
 }
 
 .bolaAzul{
-    background-color: blue;
-    height: 100px;
-    width: 100px;
+    background-color: rgb(6, 70, 220);
+    height: 130px;
+    width: 130px;
     border-radius: 50%;
 }
