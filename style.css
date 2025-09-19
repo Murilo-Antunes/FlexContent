@@ -16,8 +16,8 @@
 }
 
 .bolaRoxa{
-    height: 130px;
-    width: 130px;
+    height: 11vh;
+    width: 11vh;
     background-color: rgba(115, 64, 162, 0.992);
     border-radius: 50%;
 }
@@ -32,8 +32,8 @@
 }
 
 .bolaVerde{
-    height: 130px;
-    width: 130px;
+    height: 11vh;
+    width: 11vh;
     border-radius: 50%;
     background-color: rgb(23, 120, 23);
 }
@@ -49,8 +49,8 @@
 
 .bolaVermelha{
     background-color: rgb(142, 0, 0);
-    height: 130px;
-    width: 130px;
+    height: 11vh;
+    width: 11vh;
     border-radius: 50%;
 }
 
@@ -64,8 +64,8 @@
 
 .bolaAmarela{
     background-color: rgb(134, 134, 1);   
-    height: 130px;
-    width: 130px;
+    height: 11vh;
+    width: 11vh;
     border-radius: 50%;
 }
 
@@ -79,7 +79,7 @@
 
 .bolaAzul{
     background-color: rgb(6, 70, 220);
-    height: 130px;
-    width: 130px;
+    height: 11vh;
+    width: 11vh;
     border-radius: 50%;
 }
